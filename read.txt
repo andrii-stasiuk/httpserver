@@ -1,0 +1,4 @@
+https://www.calhoun.io/intro-to-templates-p3-functions/
+https://medium.com/@IndianGuru/understanding-go-s-template-package-c5307758fab0
+https://blog.gopheracademy.com/advent-2017/using-go-templates/
+https://gowebexamples.com/templates/
